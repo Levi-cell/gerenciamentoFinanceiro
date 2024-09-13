@@ -7,11 +7,11 @@ __pycache__/
 *.pyc
 
 # Ignorar configurações de IDE (como PyCharm)
-*.log
+
 .idea/
 
 # Ignorar logs e arquivos temporários
-
+*.log
 *.tmp
 
 # Ignorar arquivos de sistema
